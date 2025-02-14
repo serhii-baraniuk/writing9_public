@@ -1,15 +1,5 @@
 # IELTS Writing Essentials
 
-## Main Links
-
-- [How does it work?](https://writing9.com/#how)
-- [Pricing](https://writing9.com/#pricing)
-- [FAQ](https://writing9.com/#faq)
-- [Testimonials](https://writing9.com/#testimonials)
-- [Premium Bonuses](https://writing9.com/bonuses)
-- [Blog](https://writing9.com/ielts-preparation)
-- [Scholarship](https://writing9.com/the-annual-writing9-scholarship)
-
 ## IELTS Task 1 General
 
 - [Samples](https://writing9.com/ielts-writing-samples-task-1)
@@ -55,15 +45,3 @@
 - [English Speaking Course](https://getspeakingcourse.com/download)
 - [IELTS Vocabulary Practice](https://writing9.com/vocabulary-practice)
 - [Learn Spanish Grammar](https://espanido.com/)
-
-## Legal
-
-- [Terms and Conditions](https://writing9.com/terms)
-- [Privacy Policy](https://writing9.com/privacy)
-- [Refund Policy](https://writing9.com/refund)
-- [DMCA Policy](https://writing9.com/dmca)
-
-## Support
-
-- [Contact Us](https://writing9.com/contact)
-- [Become an Affiliate](https://affiliate.writing9.com)
